@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juspay/purescript-foreign-generic.git"
+    "url": "git://github.com/paf31/purescript-foreign-generic.git"
   },
   "dependencies": {
     "purescript-effect": "^4.0.0",
