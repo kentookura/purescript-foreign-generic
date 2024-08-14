@@ -1,0 +1,32 @@
+package:
+  name: foreign-generic
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - assert
+    - exceptions
+    - foreign
+    - foreign-object
+    - identity
+    - record
+    - arrays
+    - bifunctors
+    - control
+    - either
+    - foldable-traversable
+    - lists
+    - maybe
+    - newtype
+    - partial
+    - strings
+    - transformers
+    - tuples
+    - unsafe-coerce
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 57.1.0
+  extraPackages: {}
